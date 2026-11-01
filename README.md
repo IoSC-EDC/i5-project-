@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 A Line Following Robot (LFR) is an autonomous mobile robot designed to follow a predefined path—typically a high-contrast line (black on white or white on black) on the floor. It serves as a foundational project in robotics, embedded systems, and automation, bridging basic hardware integration with advanced control theory.
-
+**Demo Video:** [Watch the Line Following Robot in Action](http://www.youtube.com/watch?v=knL2a4SEc5o)[cite: 1]
 ---
 
 ## 🛠️ System Architecture
